@@ -1,0 +1,87 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Topaz Sig Sample
+</name>
+</assembly>
+<members>
+<member name="T:Topaz_Sig_Sample.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Topaz_Sig_Sample.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Topaz_Sig_Sample.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Topaz_Sig_Sample.My.Resources.Resources.CLEAR">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Topaz_Sig_Sample.My.Resources.Resources.OK">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Topaz_Sig_Sample.My.Resources.Resources.please">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Topaz_Sig_Sample.My.Resources.Resources.Sign">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Topaz_Sig_Sample.My.Resources.Resources.Void_banner">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="F:Topaz_Sig_Sample.clsSignature.eEncryptionMode.None">
+ <summary>Clear text mode</summary>
+</member>
+<member name="F:Topaz_Sig_Sample.clsSignature.eEncryptionMode.Medium">
+ <summary>40-bit DES. If a longer key is set, only 40 bits used</summary>
+</member>
+<member name="F:Topaz_Sig_Sample.clsSignature.eEncryptionMode.High">
+ <summary>Higher security encryption mode</summary>
+</member>
+<member name="F:Topaz_Sig_Sample.frmSignature.eRefreshMode.Clear">
+ <summary>The Display is cleared at the specified location.</summary>
+</member>
+<member name="F:Topaz_Sig_Sample.frmSignature.eRefreshMode.Complement">
+ <summary>The Display is complemented at the specified location.</summary>
+</member>
+<member name="F:Topaz_Sig_Sample.frmSignature.eRefreshMode.WriteOpaque">
+ <summary>The contents of the background memory in the tablet are transferred to the LCD display, overwriting the contents of the LCD display.</summary>
+</member>
+<member name="F:Topaz_Sig_Sample.frmSignature.eRefreshMode.WriteTransparent">
+ <summary>The contents of the background memory in the tablet are transferred to the LCD display, and combined with the contents of the LCD display.</summary>
+</member>
+<member name="F:Topaz_Sig_Sample.frmSignature.eSendGraphicDest.Background">
+ <summary>Background memory in tablet</summary>
+</member>
+<member name="F:Topaz_Sig_Sample.frmSignature.eCaptureMode.None">
+ <summary>no LCD commands are sent to the tablet</summary>
+</member>
+<member name="F:Topaz_Sig_Sample.frmSignature.eCaptureMode.Autoerase">
+ <summary>sets capture mode to be active with Autoerase in the tablet</summary>
+</member>
+<member name="F:Topaz_Sig_Sample.frmSignature.eCaptureMode.NoAutoerase">
+ <summary>sets the tablet to persistent ink capture without autoerase</summary>
+</member>
+<member name="F:Topaz_Sig_Sample.frmSignature.eCaptureMode.Inverted">
+ <summary>signature ink is displayed inverted on a suitable dark background set using the Graphic functions.</summary>
+</member>
+</members>
+</doc>

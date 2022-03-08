@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "eddd9743-d137-4de6-8436-c6abf14d3e71": {
+      "ProjectGuid": "eddd9743-d137-4de6-8436-c6abf14d3e71",
+      "DisplayName": "Topaz Sig Sample",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

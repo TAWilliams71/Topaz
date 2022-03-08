@@ -1,0 +1,17 @@
+D:\Documents\Visual Studio 2022\Projects\Topaz Sig Sample\Topaz Sig Sample\obj\Debug\Topaz Sig Sample.vbproj.AssemblyReference.cache
+D:\Documents\Visual Studio 2022\Projects\Topaz Sig Sample\Topaz Sig Sample\obj\Debug\Topaz Sig Sample.vbproj.SuggestedBindingRedirects.cache
+D:\Documents\Visual Studio 2022\Projects\Topaz Sig Sample\Topaz Sig Sample\obj\Debug\Topaz Sig Sample.vbproj.ResolveComReference.cache
+D:\Documents\Visual Studio 2022\Projects\Topaz Sig Sample\Topaz Sig Sample\obj\Debug\Topaz_Sig_Sample.frmMain.resources
+D:\Documents\Visual Studio 2022\Projects\Topaz Sig Sample\Topaz Sig Sample\obj\Debug\Topaz_Sig_Sample.frmSignature.resources
+D:\Documents\Visual Studio 2022\Projects\Topaz Sig Sample\Topaz Sig Sample\obj\Debug\Topaz_Sig_Sample.Resources.resources
+D:\Documents\Visual Studio 2022\Projects\Topaz Sig Sample\Topaz Sig Sample\obj\Debug\Topaz Sig Sample.vbproj.GenerateResource.cache
+D:\Documents\Visual Studio 2022\Projects\Topaz Sig Sample\Topaz Sig Sample\obj\Debug\Topaz Sig Sample.vbproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2022\Projects\Topaz Sig Sample\Topaz Sig Sample\bin\Debug\Topaz Sig Sample.exe.config
+D:\Documents\Visual Studio 2022\Projects\Topaz Sig Sample\Topaz Sig Sample\bin\Debug\Topaz Sig Sample.exe
+D:\Documents\Visual Studio 2022\Projects\Topaz Sig Sample\Topaz Sig Sample\bin\Debug\Topaz Sig Sample.pdb
+D:\Documents\Visual Studio 2022\Projects\Topaz Sig Sample\Topaz Sig Sample\bin\Debug\Topaz Sig Sample.xml
+D:\Documents\Visual Studio 2022\Projects\Topaz Sig Sample\Topaz Sig Sample\bin\Debug\SigPlusNET.dll
+D:\Documents\Visual Studio 2022\Projects\Topaz Sig Sample\Topaz Sig Sample\obj\Debug\Topaz Sig Sample.vbproj.CopyComplete
+D:\Documents\Visual Studio 2022\Projects\Topaz Sig Sample\Topaz Sig Sample\obj\Debug\Topaz Sig Sample.exe
+D:\Documents\Visual Studio 2022\Projects\Topaz Sig Sample\Topaz Sig Sample\obj\Debug\Topaz Sig Sample.xml
+D:\Documents\Visual Studio 2022\Projects\Topaz Sig Sample\Topaz Sig Sample\obj\Debug\Topaz Sig Sample.pdb
